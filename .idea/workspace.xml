@@ -10,18 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ec2a65a-5ba4-4049-8b95-96b2c0a41b87" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/assets/img/logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/babel.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/store/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/views/Home.vue" afterDir="false" />
-    </list>
+    <list default="true" id="2ec2a65a-5ba4-4049-8b95-96b2c0a41b87" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596702824337</updated>
       <workItem from="1596702825970" duration="2260000" />
-      <workItem from="1596760623181" duration="19621000" />
+      <workItem from="1596760623181" duration="20338000" />
     </task>
     <servers />
   </component>
