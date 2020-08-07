@@ -1,0 +1,16 @@
+{
+  "id": "1990004",
+  "name": "vue-h5",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6039171",
+      "name": "address",
+      "font_class": "address",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
